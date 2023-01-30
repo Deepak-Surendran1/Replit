@@ -1,0 +1,16 @@
+.container{
+  max-width : 80rem;
+ font-family : Inter;
+}
+.header-text{
+  color:#222328;
+  font-size : 32px;
+  font-family : Inter;
+  font-weight:bold;
+    margin : auto 0px;
+}
+.loading{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
